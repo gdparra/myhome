@@ -1,5 +1,5 @@
 list=[]
-for i in range(1,15):
+for i in range(1,8):
    if i < 3:
       list.append(1)
    else: 
